@@ -17,10 +17,11 @@ annafang@Annas-MacBook-Pro-10 ~ % pwd
 3. Navigate to your "Documents" directory (or wherever else you keep
    your stuff).  Hint: `cd`
    
-   annafang@Annas-MacBook-Pro-10 ~ % cd desktop/info201/lab1
+   annafang@Annas-MacBook-Pro-10 ~ % cd desktop/info201
    
 4. Print out the working directory--are you in the correct place?
-yes
+
+  annafang@Annas-MacBook-Pro-10 ~ % cd desktop/info201/lab1
 
 5. List the files there.  Do you see the same files and in the file
    explorer?  Hint: `ls`
