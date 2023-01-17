@@ -36,7 +36,20 @@ annafang@Annas-MacBook-Pro-10 lab1 % cd ~
 annafang@Annas-MacBook-Pro-10 ~ % 
 
 7. Commit and push your changes.
-
+annafang@Annas-MacBook-Pro-10 lab1 % git commit -am "commandline"
+[main 3401e52] commandline
+ 1 file changed, 14 insertions(+)
+ 
+ annafang@Annas-MacBook-Pro-10 lab1 % git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 460 bytes | 460.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/afang732/lab1.git
+   bd4590f..3401e52  main -> main
 
 8. Check the file on github--do you see your edits there?
 
